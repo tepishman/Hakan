@@ -1,1 +1,7 @@
-
+{
+  "name": "Hakan",
+  "website": "https://github.com",
+  "description": "Node Runner",
+  "logo": "https://raw.githubusercontent.com/tepishman/Hakan/main/Noderunner.PNG",
+  "twitter": "https://twitter.com/tepishman"
+}
